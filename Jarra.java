@@ -39,4 +39,5 @@ public class Jarra { //atributos
 		// Comentario incluido para pruebas
 		System.out.println("María José Hidalgo Rodríguez");
 		System.out.println("Mario Perales Díaz");
+		System.out.println("Maria Vida Montañez");
 	}
